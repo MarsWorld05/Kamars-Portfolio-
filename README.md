@@ -4,7 +4,7 @@
 <h2>Certifications </h2>
 
 
-- 🔭 I’m currently working on Google Cybersecurity 
+- 🔭 I’m currently working on Google Cybersecurity Professional Certifcation 
 - 🌱 I’m currently learning How to make a portfolio
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
