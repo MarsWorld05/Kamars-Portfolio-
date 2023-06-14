@@ -4,8 +4,6 @@
 <h2>Certifications </h2>
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Google Cybersecurity 
 - 🌱 I’m currently learning How to make a portfolio
 - 👯 I’m looking to collaborate on ...
